@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 BIENVENIDO 
 
@@ -14,4 +14,4 @@ Ejemplo Tablas en MD
 | 18:00     | Lenguajes y automatas II       |Lenguajes y automatas II        |Lenguajes y automatas II        |Lenguajes y automatas II        |Lenguajes y automatas II     |
 | 19:00     | Patrones de diseño             |Patrones de diseño              |Patrones de diseño              |Patrones de diseño              |Patrones de diseño           |
 
-![](https://prnt.sc/26sgz2u)
+![](https://prnt.sc/26sgz2u.png)

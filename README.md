@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**R-Velasques/R-Velasques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BIENVENIDO 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ejemplo Tablas en MD
+
+|    HORA   | LUNES                   	     | MARTES                         |  MIERCOLES                     | JUEVES                         |VIERNES                      |
+|----------	|--------------------------------|--------------------------------|--------------------------------|--------------------------------|-----------------------------|     
+| 14:00     | Admon Redes                    |Admon Redes                     |Admon Redes                     |Admon Redes                     |Admon Redes                  |
+| 15:00     | (UI/UX)                        |(UI/UX)                         |(UI/UX)                         |(UI/UX)                         |(UI/UX)                      |
+| 16:00     | Lenguajes de interfaz          |Lenguajes de interfaz           |Lenguajes de interfaz           |Lenguajes de interfaz           |Lenguajes de interfaz        |
+| 17:00     | Topicos desarrollo de software |Topicos desarrollo de software  |Topicos desarrollo de software  |Topicos desarrollo de software  |Topicos desarrollo de softwar|
+| 18:00     | Lenguajes y automatas II       |Lenguajes y automatas II        |Lenguajes y automatas II        |Lenguajes y automatas II        |Lenguajes y automatas II     |
+| 19:00     | Patrones de diseño             |Patrones de diseño              |Patrones de diseño              |Patrones de diseño              |Patrones de diseño           |
+
+![](https://prnt.sc/26sgz2u)

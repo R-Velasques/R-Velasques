@@ -3,7 +3,7 @@
 BIENVENIDO 
 
 
-Ejemplo Tablas en MD
+HORARIO
 
 |    HORA   | LUNES                   	     | MARTES                         |  MIERCOLES                     | JUEVES                         |VIERNES                      |
 |----------	|--------------------------------|--------------------------------|--------------------------------|--------------------------------|-----------------------------|     
@@ -14,4 +14,4 @@ Ejemplo Tablas en MD
 | 18:00     | Lenguajes y automatas II       |Lenguajes y automatas II        |Lenguajes y automatas II        |Lenguajes y automatas II        |Lenguajes y automatas II     |
 | 19:00     | Patrones de diseño             |Patrones de diseño              |Patrones de diseño              |Patrones de diseño              |Patrones de diseño           |
 
-![](https://prnt.sc/26sgz2u.png)
+![](https://mxcity.mx/wp-content/uploads/2016/02/banderas.jpg)
